@@ -246,10 +246,10 @@ In production, you'd add authentication (JWT tokens), input sanitization, rate l
 
 ## Links
 
-- [[10.2-Framework-Deployment-Guide]]
+- [[10.7-Framework-Deployment-Guide]]
 - [[10.1-Frontend-Backend-Concepts]]
-- [[10.5-Nginx-Core-Concepts]]
-- [[10.4-Process-Management]]
+- [[10.2-Nginx-Core-Concepts]]
+- [[10.3-Process-Management]]
 
 ---
 
